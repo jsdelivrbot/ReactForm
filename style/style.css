@@ -1,0 +1,14 @@
+.userFormWrapper {max-width: 320px; margin: 30px auto;}
+.thankYou {margin: 30px auto; text-align: center;}
+.thankYou p.counter {
+	font-size: 12px;
+    font-style: italic;
+}
+.thankYou .thankYouImg {margin: 15px;}
+input {max-width: 300px;}
+.error { color: red; }
+.error p {display: none;}
+.error p.invalid { display: block !important; }
+.adminPanel {text-align: center;}
+.adminPanel .adminLoginToggle {text-decoration: underline; }
+#spamjam {display: none;}
